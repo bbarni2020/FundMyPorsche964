@@ -144,7 +144,7 @@ function App() {
               Your stories inspire and motivate me on this path.
             </p>
             <a 
-              href="https://instagram.com/yourusername" 
+              href="https://www.instagram.com/fund_my_porsche964/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg text-white font-semibold hover:from-purple-700 hover:to-pink-700 transition-all"
